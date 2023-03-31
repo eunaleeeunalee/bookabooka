@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/bookabooka/static/js/main.d155f87e.js",
+    "main.js": "/bookabooka/static/js/main.e0691d36.js",
     "index.html": "/bookabooka/index.html",
-    "main.d155f87e.js.map": "/bookabooka/static/js/main.d155f87e.js.map"
+    "main.e0691d36.js.map": "/bookabooka/static/js/main.e0691d36.js.map"
   },
   "entrypoints": [
-    "static/js/main.d155f87e.js"
+    "static/js/main.e0691d36.js"
   ]
 }
